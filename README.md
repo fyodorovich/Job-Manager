@@ -22,3 +22,10 @@ Each leaf in all of this can contain unlimited work records, with their own note
 
 In fact, this tool was built because I work with a large, powerful, job management tool. The "Bug, Enhancement, Request" (BER) database is a behemoth. However, it has two missing pieces. I cannot split a job into component tasks, nor can I track work times. Job Manager does both of those things. To keep it in line with the BER, I've included a BER field which carries the BER Number. 
 
+## Access 
+
+The file is completely unlocked. There is no password.
+
+`Username: ` Admin
+`Password: ` 
+
