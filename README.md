@@ -26,6 +26,6 @@ In fact, this tool was built because I work with a large, powerful, job manageme
 
 The file is completely unlocked. There is no password.
 
-`Username: ` Admin    
+`Username:  Admin`    
 `Password: ` 
 
