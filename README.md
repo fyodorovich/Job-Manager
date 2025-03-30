@@ -24,8 +24,8 @@ In fact, this tool was built because I work with a large, powerful, job manageme
 
 ## Access 
 
-The file is completely unlocked. There is no password.
+The file is locked. The password is easily guessed.
 
 `Username:  Admin`    
-`Password: ` 
+`Password: Admin` 
 
