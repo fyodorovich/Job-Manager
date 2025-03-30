@@ -16,7 +16,7 @@ For each new job that I enter, I start to do some brain storming. What is involv
 
 In this example, Resources may be a list of tools, or documents, or by-laws that we need to comply with. Requirements may be a long "blah" of notes from the planning session. The Public and Client Side components may itemise the functions that we are working on. Of course, each of those functions may contain their own components. And, again, the components can be a mix of mind-mapping, wire-framing, scrap-booking, note-taking, or forensic details.
 
-Each leaf in all of this can contain unlimited work records, with their own notes. 
+Each leaf in all of this can contain it's own milestones, an unlimited number of work records with their own notes, and any amount of sub-components. The thing I like about this is that it allows you to split and refine ideas in greater and greater depth. And as we have seen, any leaf can have one, none, or dozens of components, so it's very flexible.
 
 ## Integration with other tools?
 
